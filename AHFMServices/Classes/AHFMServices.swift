@@ -2,8 +2,6 @@ import Foundation
 
 public protocol AHFMServices {
     
-    static func register()
-    
 }
 public extension AHFMServices {
     /// The service name
